@@ -1,4 +1,4 @@
-# Spartacus-training
+# Spartacus training 
 
 Spartacus / Angular FE Training
 
@@ -28,6 +28,7 @@ Angular Forms (ngForm and ReactiveFormsModule)<br />
 Routing<br />
 Guards<br />
 Lifecycle methods <br />
+OCC End Points Building <br />
 
 
 
