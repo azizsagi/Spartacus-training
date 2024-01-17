@@ -1,4 +1,4 @@
-# Spartacus training 
+# Spartacus
 
 Spartacus / Angular FE Training
 
