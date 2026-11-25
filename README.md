@@ -1,6 +1,6 @@
 # Spartacus
 
-Spartacus / Angular FE Training
+Spartacus / Angular / React FE Training
 
 **Scope**
 
